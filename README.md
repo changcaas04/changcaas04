@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @changcaas04
-- 👀 I’m interested in chess, calisthenics, books, and youtube
-- 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Chang
+- 👀 I’m interested in cats
+- 🌱 I’m currently learning how to sleep for 8 hours
+- 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i miss my crush
+- ⚡ Fun fact: miss ko na sya
 
 <!---
 changcaas04/changcaas04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
